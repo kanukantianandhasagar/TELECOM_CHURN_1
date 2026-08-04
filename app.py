@@ -67,13 +67,83 @@ if page == "🏠 Home":
 This application predicts whether a telecom customer is likely to **Churn** or **Stay**
 using a Machine Learning model.
 
-### Project Features
+### 🚀 Project Features
 
-- Customer Churn Prediction
-- Machine Learning Model
-- Logistic Regression Pipeline
-- Interactive User Interface
-- Telecom Dataset
+✅ Customer Churn Prediction
+
+✅ Data Cleaning & Preprocessing
+
+✅ Exploratory Data Analysis (EDA)
+
+✅ Feature Engineering
+
+✅ Machine Learning Model Training
+
+✅ Model Performance Comparison
+
+✅ Multiple Machine Learning Algorithms
+
+✅ Real-Time Customer Churn Prediction
+
+✅ Interactive Streamlit Dashboard
+
+✅ Telecom Customer Dataset Analysis
+
+✅ User-Friendly Interface
+
+---
+
+### 🛠 Technologies Used
+
+🐍 Python
+
+📊 Pandas
+
+🔢 NumPy
+
+📈 Matplotlib
+
+📉 Seaborn
+
+🤖 Scikit-Learn
+
+💾 Joblib
+
+🌐 Streamlit
+
+📓 Google Colab
+
+🐙 GitHub
+
+☁ Streamlit Community Cloud
+
+📂 CSV Dataset
+
+---
+
+### 📋 Project Workflow
+
+1️⃣ Data Collection
+
+2️⃣ Data Cleaning
+
+3️⃣ Data Preprocessing
+
+4️⃣ Exploratory Data Analysis
+
+5️⃣ Feature Engineering
+
+6️⃣ Train-Test Split
+
+7️⃣ Model Training
+
+8️⃣ Model Evaluation
+
+9️⃣ Model Selection
+
+🔟 Model Deployment
+
+Use the sidebar to navigate through the application.
 
 ### Technologies Used
 
@@ -317,10 +387,21 @@ elif page == "👨‍💻 About":
 
 The objective of this project is to predict whether a telecom customer is likely to leave the company (churn) using Machine Learning.
 
-### Machine Learning Algorithm
+### 🤖 Machine Learning Models Evaluated
 
-- Logistic Regression
-- Scikit-Learn Pipeline
+✔ Logistic Regression
+
+✔ K-Nearest Neighbors (KNN)
+
+✔ Decision Tree Classifier
+
+✔ Random Forest Classifier
+
+✔ Support Vector Machine (SVM)
+
+### 🏆 Final Selected Model
+
+✔ Logistic Regression
 
 ### Technologies Used
 
@@ -337,7 +418,7 @@ Telecom Customer Churn Dataset
 
 ### Developed By
 
-**Nitish singh**
+**Nitish singh Rajput**
 
 M.Sc Data Science
 
